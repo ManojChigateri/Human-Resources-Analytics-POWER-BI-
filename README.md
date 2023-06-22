@@ -1,4 +1,4 @@
-                                              Human Resources Analytics using Power BI
+                                          Human Resources Analytics using Power BI
 
 This project is a Power BI dashboard that visualizes HR data to help organizations make data-driven decisions. 
 The dashboard includes a variety of charts and graphs that track key HR metrics, such as Employee Attrition, Overall Employee, Employee Job Satisfaction Rating etc.. 
